@@ -1,0 +1,92 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "I specialize in front-end development, possessing a wealth of experience and proficiency in crafting immersive user interfaces and engaging user experiences.Complemented by frameworks like React, React-native and Vue.js. Leveraging a keen eye for design and a commitment to user-centric functionality, I excel in translating ideas into intuitive, visually compelling web applications that captivate and resonate with users."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "My expertise lies in back-end development, where I excel in architecting robust, scalable, and efficient systems that powers applications. Proficient in latest programming languages, I specialize in designing and implementing complex databases, APIs, and server-side logic. My skill set includes, ensuring security measures, and integrating with front-end systems etc."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "Wordpress",
+      "description": "Proficient in WordPress, I specialize in creating dynamic, visually striking websites. My expertise spans theme and plugin customization, ensuring tailored solutions for various needs, including e-commerce, blogs, and corporate sites. With a deep understanding of WordPress architecture, my focus remains on delivering high-quality, user-centric experiences that exceed expectations."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Webflow Development",
+      "description": "Skilled in Webflow development, I excel in crafting visually compelling and responsive websites. Proficient in leveraging Webflow's tools and interface, I create seamless, custom designs while ensuring optimal functionality. My expertise extends to delivering user-friendly experiences, employing robust integrations, and prioritizing efficient project workflows."
+    },
+    {
+      "id": "5",
+      "src": "",
+      "title": "Ecommerce",
+      "description": "Specializing in e-commerce development, I adeptly create robust online platforms. My expertise spans crafting user-friendly interfaces, integrating secure payment gateways, and optimizing for seamless transactions. I excel in implementing scalable solutions, customizing functionalities, and ensuring a compelling user experience that drives conversions and business growth."
+    },
+    {
+      "id": "6",
+      "src": "https://static.thenounproject.com/png/4847541-200.png",
+      "title": "Restfull APIs",
+      "description": "Proficient in RESTful API development, I excel in architecting and implementing robust interfaces for seamless data exchange. With expertise in creating scalable endpoints, authentication methods, and documentation, I prioritize efficiency and reliability. My focus lies in delivering well-structured, secure APIs that facilitate smooth communication between diverse systems."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/ecommerce.png",
+      "title": "Ecommerce Native App",      
+      "href":"https://github.com/vincent254-hub/",
+      "description": "A react native application for property listing etc",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/covid.png",      
+      "title": "Covid-19 Tracker",
+      "href":"https://github.com/vincent254-hub/covid-19-tracker",
+      "description": "This project entails the way covid status is being contained in different world countries",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "Institution Website",
+      "href":"https://github.com/vincent254-hub/",
+      "description": "A school website built with reactjs. You cant find all the information abiout the college right from here!!",
+      "link": "View In Github"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",      
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "I got the best service from Vincent, Kudos for greater working experience. Keep it up for i recomment your services...",
+      "author_name": "Otiko Jairus",
+      "author_designation": "Phindor LTD"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Ooh! Boy, I got what i wanted thanks. I'll refer you even more. Your deliverables are heartwarming. Thank you once again, pleasure collaborating with you. Looking forward to working together once again.",
+      "author_name": "Andrew Fwamba",
+      "author_designation": "CrewSoft"
+    }
+  ]
+}
